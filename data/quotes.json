@@ -1,84 +1,135 @@
 {
   "project": "Gölge Hakikatler",
   "description": "Görünenin yalan söylediği, zıddiyetin gerçeği fısıldadığı yer.",
-  "categories": [
+  "modules": [
     {
-      "name": "Psikolojik ve Bireysel Yansımalar",
+      "id": "01",
+      "name": "Derinlik Psikolojisi ve Arketipler",
+      "description": "Carl Jung, Sigmund Freud ve Viktor Frankl gibi derinlik psikolojisi ve logoterapi kurucularının kavramları.",
       "quotes": [
+        {
+          "quote": "Aydınlanma, ışık figürleri hayal ederek değil, karanlığı bilince çıkararak gerçekleşir.",
+          "source": "Carl Gustav Jung",
+          "surface": "Ruhsal gelişimin sadece 'iyi, pozitif ve aydınlık' düşüncelerle elde edilebileceği yanılgısı.",
+          "shadowTruth": "Bireyin içindeki yıkıcı, kıskanç ve bencil eğilimleri (Gölge arketipi) bastırması onu daha tehlikeli hale getirir. Gerçek bütünlük, insanın içindeki potansiyel karanlıkla yüzleşmesi ve onu entegre etmesiyle sağlanır."
+        },
         {
           "quote": "Haksız tenkit, gizli takdirdir.",
           "source": "Dale Carnegie / Anonim",
-          "surface": "Karşı tarafın seni değersizleştirmesi, başarısız veya hatalı bulması, doğrudan bir saldırı ve sevgisizlik göstergesi.",
-          "shadowTruth": "Ego, kendinden üstün veya tehdit olarak gördüğü bir şeyi doğrudan övemez. Bu yüzden hayranlığını veya hissettiği yetersizliği, saldırgan bir eleştiri formunda dışa vurur. Eleştirinin şiddeti, aslında etki alanının büyüklüğünü gösterir. Negatif bir reaksiyon da bir tür enerjidir ve dikkatin senin üzerinde olduğunun kanıtıdır."
+          "surface": "Karşı tarafın seni değersizleştirmesi ve başarısız bulması.",
+          "shadowTruth": "Ego, kendinden üstün veya tehdit olarak gördüğü bir şeyi doğrudan övemez. Hayranlığını saldırgan bir eleştiri formunda dışa vurur (Karşıt-Tepki Kurma). Eleştirinin şiddeti, etki alanının büyüklüğünü gösterir."
         },
         {
-          "quote": "Aşırı tevazu, kibrin en sinsi halidir.",
-          "source": "Baruch Spinoza / Arthur Schopenhauer",
-          "surface": "Bir insanın kendi yeteneklerini ve başarılarını sürekli küçümsemesi, erdemli ve alçakgönüllü görünmesi.",
-          "shadowTruth": "Kişinin kendi büyüklüğünün o kadar farkında olmasıdır ki, bunu dışarıdan bir onay veya itirazla kanıtlama ihtiyacı duymaması, hatta başkalarının onu övmesi için 'tevazu' tuzağını kurmasıdır. Aslında kişi, kendini diğerlerinden o kadar üstün görmektedir ki, onlarla rekabet etmeye bile tenezzül etmez. Bu, egonun görünmez bir kalkan arkasında daha da şişirilmesidir."
+          "quote": "Aşırı fedakarlık, gizli bir tahakküm (kontrol) arzusudur.",
+          "source": "Psikanalitik Gözlem",
+          "surface": "Bir kişinin kendini tamamen başkalarına adaması, sürekli verici olması.",
+          "shadowTruth": "Sürekli veren kişi, alıcıyı kendisine bağımlı hale getirir ve ilişkideki güç dengesini eline alır. 'Ben senin için her şeyi yaptım' diyerek ödenemeyecek bir 'suçluluk' yükler."
         },
         {
-          "quote": "Ertelemek (Procrastination), tembellik değil, bir korku yönetimidir.",
-          "source": "Modern Psikoloji",
-          "surface": "Kişinin görevleri yerine getirecek disipline sahip olmaması, enerjisizliği ve vurdumduymazlığı.",
-          "shadowTruth": "Ertelemek, başarısız olma, mükemmel olamama veya işin getireceği potansiyel acı/sorumluluk ile yüzleşme korkusuna karşı geliştirilmiş bir savunma mekanizmasıdır. Kişi, işi yapmaktan değil, işin sonucunda kendi değeriyle yüzleşmekten kaçar. Tembellik bir enerji eksikliğiyken, erteleme yoğun bir anksiyetenin sonucudur."
+          "quote": "Acı, bir anlam bulduğu an acı olmaktan çıkar.",
+          "source": "Viktor Frankl (Logoterapi)",
+          "surface": "Çekilen ıstırabın sadece yıkıcı, anlamsız ve kaçınılması gereken bir durum olması.",
+          "shadowTruth": "İnsanın dayanıklılığı fiziksel gücüne değil, yaşadığı trajediye yüklediği anlama bağlıdır. Kriz, bireyin varoluşsal amacını inşa etmesi için kullanabileceği radikal bir hammaddeye dönüşür."
         }
       ]
     },
     {
-      "name": "Sosyolojik ve Toplumsal Dinamikler",
+      "id": "02",
+      "name": "Stoacılık ve Antikırılganlık",
+      "description": "Antik dönem Stoacıları ve modern Antikırılganlık felsefesi.",
       "quotes": [
         {
-          "quote": "Kötü komşu, insanı mal sahibi yapar.",
-          "source": "Türk Atasözü",
-          "surface": "Çevresel rahatsızlık, huzursuzluk, bitmek bilmeyen anlamsız çekişmeler ve yaşam kalitesinin düşmesi.",
-          "shadowTruth": "Dış faktörlerin yarattığı aşırı konforsuzluk, insanı kendi otonomisine ve tam bağımsızlığına ulaşması için gereken radikal adımları atmaya mecbur bırakır. Konfor uyuşturur ve statükoya hapseder; rahatsızlık ise inşa ettirir, dönüştürür ve sınırları aşmaya zorlar. Çekilen eziyet, aslında bağımsızlığın yakıtıdır."
+          "quote": "Eylemin önündeki engel, eylemi ilerletir. Yolu kapatan şey, yolun kendisi olur.",
+          "source": "Marcus Aurelius",
+          "surface": "Karşılaşılan zorlukların, hedefe ulaşmayı engelleyen ve başarısızlığa yol açan birer bariyer olması.",
+          "shadowTruth": "Zorluk, aslında zihni ve bedeni yeni çözümler bulmaya zorlayan, adaptasyon yeteneğini geliştiren yegane antrenmandır. Engel, yolu tıkamaz; tam aksine yepyeni ve daha güçlü bir yolun inşa edilmesini sağlar."
         },
         {
-          "quote": "Zor zamanlar güçlü insanlar yaratır. Güçlü insanlar iyi zamanlar yaratır. İyi zamanlar zayıf insanlar yaratır. Zayıf insanlar zor zamanlar yaratır.",
-          "source": "G. Michael Hopf",
-          "surface": "Toplumların sürekli bir refah ve kriz döngüsü içinde savrulduğu kaotik ve anlamsız bir tarih okuması.",
-          "shadowTruth": "Refah (iyi zamanlar), hayatta kalma yetilerini köreltip konfor bağımlılığı yaratırken (zayıflık); kriz (zor zamanlar) insanın potansiyelini maksimuma çıkaran yegane baskı ortamıdır. Yıkım, aslında dirilişin zorunlu ön koşuludur. Toplumsal rahatlık, yapısal bir çürümenin maskesidir."
+          "quote": "Ertelemek, tembellik değil, bir korku yönetimidir.",
+          "source": "Modern Psikoloji / Stoa Uzantıları",
+          "surface": "Görevleri yerine getirecek disipline sahip olmamak, enerjisizlik.",
+          "shadowTruth": "Ertelemek, başarısız olma, mükemmel olamama korkusuna karşı geliştirilmiş bir savunma mekanizmasıdır. Kişi işi yapmaktan değil, sonucunda kendi yetersizliğiyle yüzleşmekten kaçar."
+        },
+        {
+          "quote": "Rüzgar mumu söndürür, ateşi ise körükler.",
+          "source": "Nassim Nicholas Taleb",
+          "surface": "Kaosun, belirsizliğin ve şokların her sistemi yıkacağı yanılgısı.",
+          "shadowTruth": "Kırılgan sistemler stresten zarar görürken, 'antikırılgan' sistemler stresten ve kaostan beslenerek büyür. Zorluklardan kaçınmak kişiyi zayıflatır; belirsizliği kucaklamak ise potansiyeli maksimize eder. Siz mum olmak yerine ateş olmalısınız."
         }
       ]
     },
     {
-      "name": "Spiritüel ve Varoluşsal Krizler",
+      "id": "03",
+      "name": "Doğu Felsefesi ve Tasavvuf",
+      "description": "Taoizm (Yin-Yang), Zen Budizmi ve Anadolu Tasavvufu.",
       "quotes": [
         {
           "quote": "Yara, ışığın içine girdiği yerdir.",
           "source": "Mevlânâ Celâleddîn-i Rûmî",
-          "surface": "Hasar alma, acı çekme, bütünlüğün bozulması, fiziksel veya ruhsal bir zayıflık, bir kayıp durumu.",
-          "shadowTruth": "Kusursuz ve kapalı bir sistem dışarıdan yeni bir şey alamaz. Kırılganlık ve kriz anları, insanın katılaşmış inançlarının yıkıldığı ve yeni bir bilincin (ışığın) içeri sızabilmesi için gereken tek açıklıktır. Yıkılmayan bir duvarın ardındaki manzarayı göremezsiniz; acı, farkındalığın önündeki engelleri yıkan bir balyoza benzer."
+          "surface": "Hasar alma, acı çekme, bütünlüğün bozulması.",
+          "shadowTruth": "Kusursuz ve kapalı bir sistem dışarıdan yeni bir şey alamaz. Kırılganlık ve kriz anları, insanın katılaşmış inançlarının yıkıldığı ve yeni bir bilincin içeri sızabilmesi için gereken tek açıklıktır."
         },
         {
           "quote": "Sana kapanan kapı, aslında yanlış yolda olduğunu gösteren bir işarettir.",
           "source": "Tasavvuf ve Doğu Felsefesi",
-          "surface": "Hedeflere ulaşılamaması, reddedilme, başarısızlık ve fırsatların kaçırılması. Beklentilerin boşa çıkması.",
-          "shadowTruth": "Evren veya sistem, enerjini senin gerçek potansiyelini gerçekleştiremeyeceğin, sana ait olmayan bir yolda harcamanı engeller. Reddediliş, aslında seni doğru yola kanalize eden bir 'koruma' mekanizmasıdır. Kayıp, sahte bir aidiyetten kurtuluştur."
+          "surface": "Hedeflere ulaşılamaması, reddedilme, başarısızlık.",
+          "shadowTruth": "Evren veya sistem, enerjini gerçek potansiyelini gerçekleştiremeyeceğin, sana ait olmayan bir yolda harcamanı engeller. Kayıp, sahte bir aidiyetten kurtuluştur."
         },
         {
-          "quote": "Uçurumun içine uzun süre bakarsan, uçurum da senin içine bakar.",
-          "source": "Friedrich Nietzsche",
-          "surface": "Kötülükle, karanlıkla veya zorluklarla çok fazla ilgilenmenin insanı karamsarlığa iteceği uyarısı.",
-          "shadowTruth": "İnsan savaştığı şeye dönüşür. Kendini tanımlamak için seçtiğin düşman veya odaklandığın kriz, senin kimliğini şekillendirir. Aşırı ahlakçılığın, derin bir ahlaksızlık potansiyeli taşıması gibi; karanlığı yenmek için tamamen karanlığın kurallarını benimseyen kişi, aslında o karanlığın yeni taşıyıcısı olur. Kötülükle mücadele, gizli bir asimilasyondur."
+          "quote": "En büyük yararı sağlayan şey eylemsizliktir.",
+          "source": "Laozi",
+          "surface": "Pasiflik, tembellik ve hayata müdahale etmemenin başarısızlık getireceği algısı.",
+          "shadowTruth": "Sürekli müdahale etmek, evrenin doğal akışını (Tao) bozar. 'Eylemsizlik eylemi' (Wu-Wei), doğru zamanda, minimum çabayla doğanın gücünü arkasına alarak hareket etmektir. Zorlamamak, zayıflık değil, sistemin kendi momentumunu kullanma bilgeliğidir."
         }
       ]
     },
     {
-      "name": "İlişkiler ve Sosyal Bağlar",
+      "id": "04",
+      "name": "Sosyoloji ve Modern Krizler",
+      "description": "Friedrich Nietzsche, Jean Baudrillard ve diyalektik tarih felsefesi.",
       "quotes": [
         {
-          "quote": "Aşırı fedakarlık, gizli bir tahakküm (kontrol) arzusudur.",
-          "source": "Psikanalitik Gözlem / Carl Jung",
-          "surface": "Bir kişinin kendini tamamen başkalarına adaması, sürekli verici olması, kendi ihtiyaçlarını yok sayması ve sevgi dolu görünmesi.",
-          "shadowTruth": "Sürekli veren kişi, alıcıyı kendisine bağımlı hale getirir ve böylece ilişkideki güç dengesini tamamen eline alır. Ayrıca, 'ben senin için her şeyi yaptım' diyerek, karşı tarafa ödenemeyecek bir 'suçluluk ve borçluluk' yükler. Kendini feda etmek, pasif-agresif bir şekilde karşı tarafı yönetme ve bağlama stratejisidir."
+          "quote": "Uçurumun içine uzun süre bakarsan, uçurum da senin içine bakar.",
+          "source": "Friedrich Nietzsche",
+          "surface": "Kötülükle çok fazla ilgilenmenin insanı karamsarlığa iteceği uyarısı.",
+          "shadowTruth": "İnsan savaştığı şeye dönüşür. Karanlığı yenmek için karanlığın kurallarını benimseyen kişi, o karanlığın yeni taşıyıcısı olur. Kötülükle mücadele, çoğu zaman gizli bir asimilasyondur."
         },
         {
-          "quote": "Öfke, sınırların ihlal edildiğini gösteren bir pusuladır.",
-          "source": "Modern Terapi Yaklaşımları",
-          "surface": "Kontrolün kaybedilmesi, yıkıcılık, irrasyonel bir duygu patlaması ve iletişim kopukluğu.",
-          "shadowTruth": "Öfke, bireyin benliğinin (psikolojik sınırlarının) tehlikede olduğunu haber veren hayati bir uyarı sistemidir. Bastırılmış öfke, depresyona dönüşürken; doğru yönlendirilen öfke, 'buraya kadar' diyebilme gücünü, özsaygıyı ve kendini koruma içgüdüsünü harekete geçirir. Öfke, aslında benliğin sadık bir bekçisidir."
+          "quote": "Aşırı tevazu, kibrin en sinsi halidir.",
+          "source": "Baruch Spinoza / Arthur Schopenhauer",
+          "surface": "Bir insanın başarılarını sürekli küçümsemesi, alçakgönüllü görünmesi.",
+          "shadowTruth": "Kişi kendini diğerlerinden o kadar üstün görmektedir ki, onlarla rekabet etmeye bile tenezzül etmez. Bu, egonun görünmez bir kalkan arkasında daha da şişirilmesidir."
+        },
+        {
+          "quote": "Zor zamanlar güçlü insanlar yaratır. Güçlü insanlar iyi zamanlar yaratır...",
+          "source": "G. Michael Hopf",
+          "surface": "Tarihin anlamsız bir refah ve kriz döngüsü olması.",
+          "shadowTruth": "Refah, hayatta kalma yetilerini köreltip zayıflık yaratırken; kriz insanın potansiyelini maksimuma çıkaran yegane baskı ortamıdır. Yıkım, dirilişin zorunlu ön koşuludur. Toplumsal rahatlık, yapısal bir çürümenin maskesidir."
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "name": "Halk İrfanı ve Atasözleri",
+      "description": "Kolektif bilinçdışının nesilden nesile aktardığı pratik ve paradoksal tecrübeler.",
+      "quotes": [
+        {
+          "quote": "Kötü komşu, insanı mal sahibi yapar.",
+          "source": "Türk Atasözü",
+          "surface": "Çevresel rahatsızlık, huzursuzluk, bitmek bilmeyen çekişmeler.",
+          "shadowTruth": "Dış faktörlerin yarattığı aşırı konforsuzluk, insanı kendi otonomisine ulaşması için gereken radikal adımları atmaya mecbur bırakır. Çekilen eziyet, aslında bağımsızlığın yakıtıdır."
+        },
+        {
+          "quote": "Gecenin en karanlık anı, şafağa en yakın olduğu andır.",
+          "source": "Evrensel Atasözü",
+          "surface": "Umutsuzluğun ve karanlığın en uç noktası.",
+          "shadowTruth": "Krizin dayanılmaz boyutlara ulaşması, mevcut bozuk sistemin artık çökme noktasına geldiğinin (ve yenisinin doğmak üzere olduğunun) göstergesidir. Zirve yapan acı, aslında iyileşmenin başlayacağı kritik eşiktir."
+        },
+        {
+          "quote": "Ağaç ne kadar yüksekse, kökleri de o kadar derin karanlığa uzanır.",
+          "source": "Genel İrfan",
+          "surface": "Bir ağacın heybeti ve başarısı.",
+          "shadowTruth": "Yüksek bir spiritüel veya dünyevi başarıya (aydınlığa) ulaşmak için, kişinin kendi acılarıyla, zorluklarıyla ve köklerindeki bilinçdışı karanlıkla o denli derinlemesine yüzleşmiş olması gerekir. Işığın gücü, karanlığa inebilme kapasitesiyle ölçülür."
         }
       ]
     }
