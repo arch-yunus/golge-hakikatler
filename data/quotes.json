@@ -1,0 +1,86 @@
+{
+  "project": "Gölge Hakikatler",
+  "description": "Görünenin yalan söylediği, zıddiyetin gerçeği fısıldadığı yer.",
+  "categories": [
+    {
+      "name": "Psikolojik ve Bireysel Yansımalar",
+      "quotes": [
+        {
+          "quote": "Haksız tenkit, gizli takdirdir.",
+          "source": "Dale Carnegie / Anonim",
+          "surface": "Karşı tarafın seni değersizleştirmesi, başarısız veya hatalı bulması, doğrudan bir saldırı ve sevgisizlik göstergesi.",
+          "shadowTruth": "Ego, kendinden üstün veya tehdit olarak gördüğü bir şeyi doğrudan övemez. Bu yüzden hayranlığını veya hissettiği yetersizliği, saldırgan bir eleştiri formunda dışa vurur. Eleştirinin şiddeti, aslında etki alanının büyüklüğünü gösterir. Negatif bir reaksiyon da bir tür enerjidir ve dikkatin senin üzerinde olduğunun kanıtıdır."
+        },
+        {
+          "quote": "Aşırı tevazu, kibrin en sinsi halidir.",
+          "source": "Baruch Spinoza / Arthur Schopenhauer",
+          "surface": "Bir insanın kendi yeteneklerini ve başarılarını sürekli küçümsemesi, erdemli ve alçakgönüllü görünmesi.",
+          "shadowTruth": "Kişinin kendi büyüklüğünün o kadar farkında olmasıdır ki, bunu dışarıdan bir onay veya itirazla kanıtlama ihtiyacı duymaması, hatta başkalarının onu övmesi için 'tevazu' tuzağını kurmasıdır. Aslında kişi, kendini diğerlerinden o kadar üstün görmektedir ki, onlarla rekabet etmeye bile tenezzül etmez. Bu, egonun görünmez bir kalkan arkasında daha da şişirilmesidir."
+        },
+        {
+          "quote": "Ertelemek (Procrastination), tembellik değil, bir korku yönetimidir.",
+          "source": "Modern Psikoloji",
+          "surface": "Kişinin görevleri yerine getirecek disipline sahip olmaması, enerjisizliği ve vurdumduymazlığı.",
+          "shadowTruth": "Ertelemek, başarısız olma, mükemmel olamama veya işin getireceği potansiyel acı/sorumluluk ile yüzleşme korkusuna karşı geliştirilmiş bir savunma mekanizmasıdır. Kişi, işi yapmaktan değil, işin sonucunda kendi değeriyle yüzleşmekten kaçar. Tembellik bir enerji eksikliğiyken, erteleme yoğun bir anksiyetenin sonucudur."
+        }
+      ]
+    },
+    {
+      "name": "Sosyolojik ve Toplumsal Dinamikler",
+      "quotes": [
+        {
+          "quote": "Kötü komşu, insanı mal sahibi yapar.",
+          "source": "Türk Atasözü",
+          "surface": "Çevresel rahatsızlık, huzursuzluk, bitmek bilmeyen anlamsız çekişmeler ve yaşam kalitesinin düşmesi.",
+          "shadowTruth": "Dış faktörlerin yarattığı aşırı konforsuzluk, insanı kendi otonomisine ve tam bağımsızlığına ulaşması için gereken radikal adımları atmaya mecbur bırakır. Konfor uyuşturur ve statükoya hapseder; rahatsızlık ise inşa ettirir, dönüştürür ve sınırları aşmaya zorlar. Çekilen eziyet, aslında bağımsızlığın yakıtıdır."
+        },
+        {
+          "quote": "Zor zamanlar güçlü insanlar yaratır. Güçlü insanlar iyi zamanlar yaratır. İyi zamanlar zayıf insanlar yaratır. Zayıf insanlar zor zamanlar yaratır.",
+          "source": "G. Michael Hopf",
+          "surface": "Toplumların sürekli bir refah ve kriz döngüsü içinde savrulduğu kaotik ve anlamsız bir tarih okuması.",
+          "shadowTruth": "Refah (iyi zamanlar), hayatta kalma yetilerini köreltip konfor bağımlılığı yaratırken (zayıflık); kriz (zor zamanlar) insanın potansiyelini maksimuma çıkaran yegane baskı ortamıdır. Yıkım, aslında dirilişin zorunlu ön koşuludur. Toplumsal rahatlık, yapısal bir çürümenin maskesidir."
+        }
+      ]
+    },
+    {
+      "name": "Spiritüel ve Varoluşsal Krizler",
+      "quotes": [
+        {
+          "quote": "Yara, ışığın içine girdiği yerdir.",
+          "source": "Mevlânâ Celâleddîn-i Rûmî",
+          "surface": "Hasar alma, acı çekme, bütünlüğün bozulması, fiziksel veya ruhsal bir zayıflık, bir kayıp durumu.",
+          "shadowTruth": "Kusursuz ve kapalı bir sistem dışarıdan yeni bir şey alamaz. Kırılganlık ve kriz anları, insanın katılaşmış inançlarının yıkıldığı ve yeni bir bilincin (ışığın) içeri sızabilmesi için gereken tek açıklıktır. Yıkılmayan bir duvarın ardındaki manzarayı göremezsiniz; acı, farkındalığın önündeki engelleri yıkan bir balyoza benzer."
+        },
+        {
+          "quote": "Sana kapanan kapı, aslında yanlış yolda olduğunu gösteren bir işarettir.",
+          "source": "Tasavvuf ve Doğu Felsefesi",
+          "surface": "Hedeflere ulaşılamaması, reddedilme, başarısızlık ve fırsatların kaçırılması. Beklentilerin boşa çıkması.",
+          "shadowTruth": "Evren veya sistem, enerjini senin gerçek potansiyelini gerçekleştiremeyeceğin, sana ait olmayan bir yolda harcamanı engeller. Reddediliş, aslında seni doğru yola kanalize eden bir 'koruma' mekanizmasıdır. Kayıp, sahte bir aidiyetten kurtuluştur."
+        },
+        {
+          "quote": "Uçurumun içine uzun süre bakarsan, uçurum da senin içine bakar.",
+          "source": "Friedrich Nietzsche",
+          "surface": "Kötülükle, karanlıkla veya zorluklarla çok fazla ilgilenmenin insanı karamsarlığa iteceği uyarısı.",
+          "shadowTruth": "İnsan savaştığı şeye dönüşür. Kendini tanımlamak için seçtiğin düşman veya odaklandığın kriz, senin kimliğini şekillendirir. Aşırı ahlakçılığın, derin bir ahlaksızlık potansiyeli taşıması gibi; karanlığı yenmek için tamamen karanlığın kurallarını benimseyen kişi, aslında o karanlığın yeni taşıyıcısı olur. Kötülükle mücadele, gizli bir asimilasyondur."
+        }
+      ]
+    },
+    {
+      "name": "İlişkiler ve Sosyal Bağlar",
+      "quotes": [
+        {
+          "quote": "Aşırı fedakarlık, gizli bir tahakküm (kontrol) arzusudur.",
+          "source": "Psikanalitik Gözlem / Carl Jung",
+          "surface": "Bir kişinin kendini tamamen başkalarına adaması, sürekli verici olması, kendi ihtiyaçlarını yok sayması ve sevgi dolu görünmesi.",
+          "shadowTruth": "Sürekli veren kişi, alıcıyı kendisine bağımlı hale getirir ve böylece ilişkideki güç dengesini tamamen eline alır. Ayrıca, 'ben senin için her şeyi yaptım' diyerek, karşı tarafa ödenemeyecek bir 'suçluluk ve borçluluk' yükler. Kendini feda etmek, pasif-agresif bir şekilde karşı tarafı yönetme ve bağlama stratejisidir."
+        },
+        {
+          "quote": "Öfke, sınırların ihlal edildiğini gösteren bir pusuladır.",
+          "source": "Modern Terapi Yaklaşımları",
+          "surface": "Kontrolün kaybedilmesi, yıkıcılık, irrasyonel bir duygu patlaması ve iletişim kopukluğu.",
+          "shadowTruth": "Öfke, bireyin benliğinin (psikolojik sınırlarının) tehlikede olduğunu haber veren hayati bir uyarı sistemidir. Bastırılmış öfke, depresyona dönüşürken; doğru yönlendirilen öfke, 'buraya kadar' diyebilme gücünü, özsaygıyı ve kendini koruma içgüdüsünü harekete geçirir. Öfke, aslında benliğin sadık bir bekçisidir."
+        }
+      ]
+    }
+  ]
+}
