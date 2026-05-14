@@ -222,6 +222,31 @@
           "shadowTruth": "Rahmet (ödül), varoluşun stres testini geçmenin bir sonucudur. Zahmet çekmeden elde edilen her şey (kısa yoldan zenginlik, şans) kişinin psikolojik omurgasını zayıflatır ve zamanla o ödülü taşıyamaz hale gelip çökmesine neden olur. Bedeli ödenmemiş başarı, gizli bir cezadır."
         }
       ]
+    },
+    {
+      "id": "06",
+      "name": "Sanat ve Mitoloji",
+      "description": "Kahramanın yolculuğu, trajedi ve klasik mitolojinin arketipleri üzerinden gölge hakikatler.",
+      "quotes": [
+        {
+          "quote": "Kaderden kaçmak için attığın her adım, seni o kadere biraz daha yaklaştırır.",
+          "source": "Sofokles (Kral Oidipus) / Antik Yunan Trajedisi",
+          "surface": "İnsanın kendi iradesiyle kötülükten ve felaketten kaçabileceği inancı.",
+          "shadowTruth": "Çoğu zaman korktuğumuz şeyi yaratma eylemi, ondan kaçmaya çalışırken başlar. Kaçış reaksiyonu panik, inkar ve körlük yaratır; bu körlük, bizzat kaçılmak istenen tuzağın içine düşmenin ana sebebidir."
+        },
+        {
+          "quote": "Sınırsız güce ve bilgiye ulaşan kişi, ruhunu köleliğe mahkum eder.",
+          "source": "Goethe (Faust)",
+          "surface": "Her şeyi bilmenin ve dünyaya hükmetmenin insana mutlak özgürlük getireceği arzusu.",
+          "shadowTruth": "Dünyevi hakimiyet ve sınırları aşma hırsı (Faustiyen pazarlık), mecburi olarak insani değerlerin (vicdan, sevgi, huzur) şeytani bir bedelle feda edilmesini gerektirir. Elde edilen dışsal güç, aslında içsel bir kölelik kontratıdır."
+        },
+        {
+          "quote": "Güneşe en çok yaklaşan, kanatları ilk eriyecek olandır.",
+          "source": "Yunan Mitolojisi (İkarus)",
+          "surface": "Sürekli yükselmenin, statü ve ihtişamın zirvesine çıkmanın nihai zafer olduğu yanılgısı.",
+          "shadowTruth": "Kibirle (hubris) beslenen ölçüsüz bir hırs, kişinin kendi limitlerini unutmasına neden olur. Zirve, aynı zamanda düşüşün başladığı yerdir. Yüksekliğin ihtişamı, yok oluşun yakıtıdır."
+        }
+      ]
     }
   ]
 }

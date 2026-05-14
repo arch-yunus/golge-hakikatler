@@ -1,0 +1,14 @@
+{
+  "name": "golge-hakikatler",
+  "version": "1.0.0",
+  "description": "Gölge Hakikatler - Felsefi Düşünce Külliyatı",
+  "main": "shadow-truth.js",
+  "bin": {
+    "shadow-truth": "./shadow-truth.js"
+  },
+  "scripts": {
+    "start": "node shadow-truth.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
