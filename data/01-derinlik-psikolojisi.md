@@ -31,3 +31,8 @@ Bu modül, Carl Jung, Sigmund Freud ve Viktor Frankl gibi derinlik psikolojisi v
 * **Kaynak:** Carl Gustav Jung
 * **Yüzeydeki Görüntü:** Çevremizdeki sinir bozucu insanların basitçe bizim huzurumuzu kaçıran dışsal engeller olduğu fikri.
 * **Gölge Hakikat:** Bir başkasında tahammül edemediğimiz özellikler, kendi içimizde bastırdığımız, kabul etmediğimiz ve yüzleşmekten korktuğumuz parçalarımızın (Yansıtma/Projection) birer dışavurumudur. Öfkemiz, aslında kendimize tuttuğumuz bir aynadır.
+
+### "Birini yargılamak, kendini anlamaktan daha kolaydır, bu yüzden herkes yargılar."
+* **Kaynak:** Carl Gustav Jung
+* **Yüzeydeki Görüntü:** Yargılamak, keskin bir zekanın, ahlaki üstünlüğün ve haklı bir analizin sonucudur.
+* **Gölge Hakikat:** Yargılamak, entelektüel tembelliktir ve kişinin kendi kusurlarını başkasının üzerine yansıtarak (projection) vicdanını rahatlatma çabasıdır. Sertçe kınadığın şey, potansiyel olarak işleyebileceğin bir suçun dışavurumudur.

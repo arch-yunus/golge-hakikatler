@@ -26,3 +26,8 @@ Antik dönem Stoacıları (Marcus Aurelius, Epiktetos) ve modern Antikırılganl
 * **Kaynak:** Chuck Palahniuk (Fight Club) / Stoa Uzantısı
 * **Yüzeydeki Görüntü:** Statü, mal mülk veya insanların onayını kaybetmenin insanın başına gelebilecek en büyük felaket olması durumu.
 * **Gölge Hakikat:** Sahip olduğun şeyler (ve onları kaybetme korkusu) zamanla eylemlerine ve sana sahip olur. Tüm bu toplumsal ve maddi bağlılıkların yok olması, egonun zincirlerinin kırıldığı ve tam bağımsızlığın başladığı mutlak özgürlük anıdır.
+
+### "Zenginlik, çok şeye sahip olmak değil, az şeye ihtiyaç duymaktır."
+* **Kaynak:** Epiktetos / Seneca
+* **Yüzeydeki Görüntü:** Zenginliğin, banka hesabındaki parayla veya dışsal varlıkların birikimiyle ölçülmesi.
+* **Gölge Hakikat:** Sonsuz bir arzu döngüsü içinde, ne kadar elde edersen et hissedeceğin tek şey "yoksunluk" olacaktır. Zenginlik, dışsal bir birikim değil, içsel bir tatmin eşiğidir. En büyük fakirlik, ihtirasların esiri olmaktır.

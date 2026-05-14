@@ -26,3 +26,8 @@ Kolektif bilinçdışının nesilden nesile aktardığı pratik ve paradoksal te
 * **Kaynak:** Türk Atasözü
 * **Yüzeydeki Görüntü:** İnsanların vefasız olması ve gücünü kaybeden birini hızla terk edip yalnız bırakması.
 * **Gölge Hakikat:** Kriz ve çöküş anındaki "terk ediliş", aslında bireyin yapay ilişkilerden ve sahte destek ağlarından (illüzyonlardan) arınarak kendi saf öz gücüyle tanışması için gereken yegane yalıtımdır. Bu yalnızlık, iyileşme ve hakikati görme fırsatıdır.
+
+### "Zahmetsiz rahmet olmaz."
+* **Kaynak:** Türk Atasözü
+* **Yüzeydeki Görüntü:** Güzelliklere ve ödüle ulaşmak için fiziksel veya zihinsel olarak yorulmak gerektiği kuralı.
+* **Gölge Hakikat:** Rahmet (ödül), varoluşun stres testini geçmenin bir sonucudur. Zahmet çekmeden elde edilen her şey (kısa yoldan zenginlik, şans) kişinin psikolojik omurgasını zayıflatır ve zamanla o ödülü taşıyamaz hale gelip çökmesine neden olur. Bedeli ödenmemiş başarı, gizli bir cezadır.

@@ -26,3 +26,8 @@ Taoizm (Yin-Yang), Zen Budizmi ve Anadolu Tasavvufu. Zıtların birliği ve hiç
 * **Kaynak:** Laozi (Tao Te Ching)
 * **Yüzeydeki Görüntü:** Boşluk kavramının eksiklik, faydasızlık ve bir yoksunluk hali olarak algılanması.
 * **Gölge Hakikat:** Bir nesnenin veya zihnin potansiyeli, doluluğunda değil içindeki boşluktadır. "Her şeyi biliyorum" diyen dolu bir zihin yeni bir şey öğrenemez; ancak "hiçlik" ve alçakgönüllülük, yepyeni olasılıkların doğabileceği yegane yaratıcı alandır.
+
+### "En yüksek kule, en derin temele ihtiyaç duyar."
+* **Kaynak:** Taoizm / Tasavvuf İrfanı
+* **Yüzeydeki Görüntü:** Başarının, yükselişin sadece yukarı doğru bir tırmanış olduğu ve gökyüzüne ulaşmanın tek hedef olduğu algısı.
+* **Gölge Hakikat:** Ruhsal ve dünyevi büyüme, yüzeyin altında derinleşen bir köklenme (acı, sabır, yüzleşme) gerektirir. Kendi karanlığına ve derinliğine inemeyen, ulaştığı yüksekliğin sarhoşluğunda en hafif rüzgarda devrilmeye mahkumdur. Yükselmek, aslında aşağıya doğru büyümektir.
