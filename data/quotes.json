@@ -30,6 +30,18 @@
           "source": "Viktor Frankl (Logoterapi)",
           "surface": "Çekilen ıstırabın sadece yıkıcı, anlamsız ve kaçınılması gereken bir durum olması.",
           "shadowTruth": "İnsanın dayanıklılığı fiziksel gücüne değil, yaşadığı trajediye yüklediği anlama bağlıdır. Kriz, bireyin varoluşsal amacını inşa etmesi için kullanabileceği radikal bir hammaddeye dönüşür."
+        },
+        {
+          "quote": "İçindeki şeytanları kovarsan, meleklerin de seni terk eder.",
+          "source": "Rainer Maria Rilke",
+          "surface": "Kötü huyları ve olumsuz düşünceleri tamamen yok etmenin kişiyi mükemmelliğe ulaştıracağı yanılgısı.",
+          "shadowTruth": "Yaratıcılığın, tutkunun ve yaşam enerjisinin kaynağı çoğu zaman karanlık, kaotik ve ilkel itkilerdir. Şeytan (gölge), melek (aydınlık) ile aynı kökten beslenir. Karanlığını tamamen yok eden kişi, yaşam enerjisini (libidosunu) de öldürür."
+        },
+        {
+          "quote": "Başkalarında bizi rahatsız eden her şey, kendimizi anlamamıza yol açabilir.",
+          "source": "Carl Gustav Jung",
+          "surface": "Çevremizdeki sinir bozucu insanların basitçe bizim huzurumuzu kaçıran dışsal engeller olduğu fikri.",
+          "shadowTruth": "Bir başkasında tahammül edemediğimiz özellikler, kendi içimizde bastırdığımız, kabul etmediğimiz ve yüzleşmekten korktuğumuz parçalarımızın (Yansıtma/Projection) birer dışavurumudur. Öfkemiz, aslında kendimize tuttuğumuz bir aynadır."
         }
       ]
     },
@@ -55,6 +67,18 @@
           "source": "Nassim Nicholas Taleb",
           "surface": "Kaosun, belirsizliğin ve şokların her sistemi yıkacağı yanılgısı.",
           "shadowTruth": "Kırılgan sistemler stresten zarar görürken, 'antikırılgan' sistemler stresten ve kaostan beslenerek büyür. Zorluklardan kaçınmak kişiyi zayıflatır; belirsizliği kucaklamak ise potansiyeli maksimize eder. Siz mum olmak yerine ateş olmalısınız."
+        },
+        {
+          "quote": "Daha fazla acı çekmekten korkan kişi, zaten korktuğu için acı çekiyordur.",
+          "source": "Michel de Montaigne",
+          "surface": "Acıdan ve zorluklardan kaçınmanın, güvenli alanlarda kalmanın insanı koruyacağı inancı.",
+          "shadowTruth": "Gelecekteki potansiyel acıyı veya felaketi düşünerek yaşanan anksiyete, aslında kaçınılmak istenen acının ta kendisini şimdiki zamana taşır. Sürekli bir koruma içgüdüsü, dışsal bir tehdit olmasa bile içsel bir hapishane yaratır."
+        },
+        {
+          "quote": "Sadece her şeyini kaybettikten sonra, her şeyi yapmakta özgür olursun.",
+          "source": "Chuck Palahniuk (Fight Club) / Stoa Uzantısı",
+          "surface": "Statü, mal mülk veya insanların onayını kaybetmenin insanın başına gelebilecek en büyük felaket olması durumu.",
+          "shadowTruth": "Sahip olduğun şeyler (ve onları kaybetme korkusu) zamanla eylemlerine ve sana sahip olur. Tüm bu toplumsal ve maddi bağlılıkların yok olması, egonun zincirlerinin kırıldığı ve tam bağımsızlığın başladığı mutlak özgürlük anıdır."
         }
       ]
     },
@@ -80,6 +104,18 @@
           "source": "Laozi",
           "surface": "Pasiflik, tembellik ve hayata müdahale etmemenin başarısızlık getireceği algısı.",
           "shadowTruth": "Sürekli müdahale etmek, evrenin doğal akışını (Tao) bozar. 'Eylemsizlik eylemi' (Wu-Wei), doğru zamanda, minimum çabayla doğanın gücünü arkasına alarak hareket etmektir. Zorlamamak, zayıflık değil, sistemin kendi momentumunu kullanma bilgeliğidir."
+        },
+        {
+          "quote": "Suyu bulandırmak için çabalama, sadece bekle; kendi kendine durulacaktır.",
+          "source": "Laozi / Zen Budizmi",
+          "surface": "Bir krizi veya sorunu çözmek için sürekli, telaşlı ve agresif bir şekilde eyleme geçmek gerektiği yanılgısı.",
+          "shadowTruth": "Zihinsel veya duygusal krizlerde, 'düzeltme' çabası ve panik hali çoğu zaman karmaşayı daha da artırır. Olayları ve hisleri doğal seyrine bırakmak, sistemin kendi dengesini bulmasını sağlayan en etkili onarım stratejisidir."
+        },
+        {
+          "quote": "Boş bir kase, ancak boş olduğu için işe yarar.",
+          "source": "Laozi (Tao Te Ching)",
+          "surface": "Boşluk kavramının eksiklik, faydasızlık ve bir yoksunluk hali olarak algılanması.",
+          "shadowTruth": "Bir nesnenin veya zihnin potansiyeli, doluluğunda değil içindeki boşluktadır. 'Her şeyi biliyorum' diyen dolu bir zihin yeni bir şey öğrenemez; ancak 'hiçlik' ve alçakgönüllülük, yepyeni olasılıkların doğabileceği yegane yaratıcı alandır."
         }
       ]
     },
@@ -105,6 +141,18 @@
           "source": "G. Michael Hopf",
           "surface": "Tarihin anlamsız bir refah ve kriz döngüsü olması.",
           "shadowTruth": "Refah, hayatta kalma yetilerini köreltip zayıflık yaratırken; kriz insanın potansiyelini maksimuma çıkaran yegane baskı ortamıdır. Yıkım, dirilişin zorunlu ön koşuludur. Toplumsal rahatlık, yapısal bir çürümenin maskesidir."
+        },
+        {
+          "quote": "Eğer herkes aynı şekilde düşünüyorsa, kimse yeterince düşünmüyordur.",
+          "source": "George S. Patton",
+          "surface": "Toplumsal uyum, harmoni ve fikir birliğinin her zaman doğruyu işaret ettiği inancı.",
+          "shadowTruth": "Toplumsal konsensüs, genellikle entelektüel tembelliğin ve sürü psikolojisinin sonucudur. Çatışmasız uyum ortamları, gerçeği arama cesaretini değil; dışlanma korkusunu ve düşünsel uyuşukluğu yansıtır."
+        },
+        {
+          "quote": "Özgürlüğün en büyük düşmanı baskı değil, mutlu köleliktir.",
+          "source": "Aldous Huxley (Cesur Yeni Dünya bağlamı)",
+          "surface": "Diktatörlüğün ve sistemin insanları sadece zincirleyerek, şiddet ve korku yoluyla itaat ettireceği düşüncesi.",
+          "shadowTruth": "Modern tahakküm, acı vererek değil; insanları ucuz eğlenceye, konfora, uyuşturucu niteliğindeki dopamin kaynaklarına boğarak gerçekleştirilir. İnsanlar 'zindanlarını sever' hale geldiklerinde isyan etme potansiyelleri tamamen yok olur. Gerçek esaret, kişinin özgür olduğuna inandığı illüzyonun içindedir."
         }
       ]
     },
@@ -130,6 +178,18 @@
           "source": "Genel İrfan",
           "surface": "Bir ağacın heybeti ve başarısı.",
           "shadowTruth": "Yüksek bir spiritüel veya dünyevi başarıya (aydınlığa) ulaşmak için, kişinin kendi acılarıyla, zorluklarıyla ve köklerindeki bilinçdışı karanlıkla o denli derinlemesine yüzleşmiş olması gerekir. Işığın gücü, karanlığa inebilme kapasitesiyle ölçülür."
+        },
+        {
+          "quote": "Gül dikensiz olmaz.",
+          "source": "Genel Atasözü",
+          "surface": "Dünyadaki güzelliklerin içinde ufak tefek kusurlar veya can sıkıcı detaylar da bulunur.",
+          "shadowTruth": "Bir şeyin değeri, onu koruyan ve elde etmesini zorlaştıran acıyla (dikenle) doğrudan orantılıdır. Diken, sıradanlığa karşı güzelliğin doğuştan gelen savunma mekanizmasıdır; o acı bedelini ödemeyi göze almayan, gerçek değere ulaşamaz."
+        },
+        {
+          "quote": "Düşenin dostu olmaz.",
+          "source": "Türk Atasözü",
+          "surface": "İnsanların vefasız olması ve gücünü kaybeden birini hızla terk edip yalnız bırakması.",
+          "shadowTruth": "Kriz ve çöküş anındaki 'terk ediliş', aslında bireyin yapay ilişkilerden ve sahte destek ağlarından (illüzyonlardan) arınarak kendi saf öz gücüyle tanışması için gereken yegane yalıtımdır. Bu yalnızlık, iyileşme ve hakikati görme fırsatıdır."
         }
       ]
     }

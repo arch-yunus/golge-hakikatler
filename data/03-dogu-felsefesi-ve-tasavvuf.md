@@ -16,3 +16,13 @@ Taoizm (Yin-Yang), Zen Budizmi ve Anadolu Tasavvufu. Zıtların birliği ve hiç
 * **Kaynak:** Laozi (Wu-Wei prensibi)
 * **Yüzeydeki Görüntü:** Pasiflik, tembellik ve hayata müdahale etmemenin başarısızlık getireceği algısı.
 * **Gölge Hakikat:** Sürekli müdahale etmek, evrenin doğal akışını (Tao) bozar. "Eylemsizlik eylemi" (Wu-Wei), doğru zamanda, minimum çabayla doğanın gücünü arkasına alarak hareket etmektir. Zorlamamak, zayıflık değil, sistemin kendi momentumunu kullanma bilgeliğidir.
+
+### "Suyu bulandırmak için çabalama, sadece bekle; kendi kendine durulacaktır."
+* **Kaynak:** Laozi / Zen Budizmi
+* **Yüzeydeki Görüntü:** Bir krizi veya sorunu çözmek için sürekli, telaşlı ve agresif bir şekilde eyleme geçmek gerektiği yanılgısı.
+* **Gölge Hakikat:** Zihinsel veya duygusal krizlerde, "düzeltme" çabası ve panik hali çoğu zaman karmaşayı daha da artırır. Olayları ve hisleri doğal seyrine bırakmak, sistemin kendi dengesini bulmasını sağlayan en etkili onarım stratejisidir.
+
+### "Boş bir kase, ancak boş olduğu için işe yarar."
+* **Kaynak:** Laozi (Tao Te Ching)
+* **Yüzeydeki Görüntü:** Boşluk kavramının eksiklik, faydasızlık ve bir yoksunluk hali olarak algılanması.
+* **Gölge Hakikat:** Bir nesnenin veya zihnin potansiyeli, doluluğunda değil içindeki boşluktadır. "Her şeyi biliyorum" diyen dolu bir zihin yeni bir şey öğrenemez; ancak "hiçlik" ve alçakgönüllülük, yepyeni olasılıkların doğabileceği yegane yaratıcı alandır.

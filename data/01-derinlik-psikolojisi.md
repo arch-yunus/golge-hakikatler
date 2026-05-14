@@ -21,3 +21,13 @@ Bu modül, Carl Jung, Sigmund Freud ve Viktor Frankl gibi derinlik psikolojisi v
 * **Kaynak:** Viktor Frankl (Logoterapi)
 * **Yüzeydeki Görüntü:** Çekilen ıstırabın sadece yıkıcı, anlamsız ve kaçınılması gereken bir durum olması.
 * **Gölge Hakikat:** İnsanın dayanıklılığı fiziksel gücüne değil, yaşadığı trajediye yüklediği anlama bağlıdır. Kriz, bireyin varoluşsal amacını inşa etmesi için kullanabileceği radikal bir hammaddeye dönüşür.
+
+### "İçindeki şeytanları kovarsan, meleklerin de seni terk eder."
+* **Kaynak:** Rainer Maria Rilke
+* **Yüzeydeki Görüntü:** Kötü huyları ve olumsuz düşünceleri tamamen yok etmenin kişiyi mükemmelliğe ulaştıracağı yanılgısı.
+* **Gölge Hakikat:** Yaratıcılığın, tutkunun ve yaşam enerjisinin kaynağı çoğu zaman karanlık, kaotik ve ilkel itkilerdir. Şeytan (gölge), melek (aydınlık) ile aynı kökten beslenir. Karanlığını tamamen yok eden kişi, yaşam enerjisini (libidosunu) de öldürür.
+
+### "Başkalarında bizi rahatsız eden her şey, kendimizi anlamamıza yol açabilir."
+* **Kaynak:** Carl Gustav Jung
+* **Yüzeydeki Görüntü:** Çevremizdeki sinir bozucu insanların basitçe bizim huzurumuzu kaçıran dışsal engeller olduğu fikri.
+* **Gölge Hakikat:** Bir başkasında tahammül edemediğimiz özellikler, kendi içimizde bastırdığımız, kabul etmediğimiz ve yüzleşmekten korktuğumuz parçalarımızın (Yansıtma/Projection) birer dışavurumudur. Öfkemiz, aslında kendimize tuttuğumuz bir aynadır.

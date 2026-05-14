@@ -16,3 +16,13 @@ Kolektif bilinçdışının nesilden nesile aktardığı pratik ve paradoksal te
 * **Kaynak:** Genel İrfan
 * **Yüzeydeki Görüntü:** Bir ağacın heybeti ve başarısı.
 * **Gölge Hakikat:** Yüksek bir spiritüel veya dünyevi başarıya (aydınlığa) ulaşmak için, kişinin kendi acılarıyla, zorluklarıyla ve köklerindeki bilinçdışı karanlıkla o denli derinlemesine yüzleşmiş olması gerekir. Işığın gücü, karanlığa inebilme kapasitesiyle ölçülür.
+
+### "Gül dikensiz olmaz."
+* **Kaynak:** Genel Atasözü
+* **Yüzeydeki Görüntü:** Dünyadaki güzelliklerin içinde ufak tefek kusurlar veya can sıkıcı detaylar da bulunur.
+* **Gölge Hakikat:** Bir şeyin değeri, onu koruyan ve elde etmesini zorlaştıran acıyla (dikenle) doğrudan orantılıdır. Diken, sıradanlığa karşı güzelliğin doğuştan gelen savunma mekanizmasıdır; o acı bedelini ödemeyi göze almayan, gerçek değere ulaşamaz.
+
+### "Düşenin dostu olmaz."
+* **Kaynak:** Türk Atasözü
+* **Yüzeydeki Görüntü:** İnsanların vefasız olması ve gücünü kaybeden birini hızla terk edip yalnız bırakması.
+* **Gölge Hakikat:** Kriz ve çöküş anındaki "terk ediliş", aslında bireyin yapay ilişkilerden ve sahte destek ağlarından (illüzyonlardan) arınarak kendi saf öz gücüyle tanışması için gereken yegane yalıtımdır. Bu yalnızlık, iyileşme ve hakikati görme fırsatıdır.
